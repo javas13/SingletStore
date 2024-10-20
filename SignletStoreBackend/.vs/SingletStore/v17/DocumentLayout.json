@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\SingletStore\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9539AA78-4DC2-4D12-ACFE-8F0B1966EB19}|SingletStore.Api\\SingletStore.Api.csproj|c:\\users\\andre\\source\\repos\\singletstore\\backend\\singletstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9539AA78-4DC2-4D12-ACFE-8F0B1966EB19}|SingletStore.Api\\SingletStore.Api.csproj|solutionrelative:singletstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9539AA78-4DC2-4D12-ACFE-8F0B1966EB19}|SingletStore.Api\\SingletStore.Api.csproj|c:\\users\\andre\\source\\repos\\singletstore\\backend\\singletstore.api\\controllers\\singletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9539AA78-4DC2-4D12-ACFE-8F0B1966EB19}|SingletStore.Api\\SingletStore.Api.csproj|solutionrelative:singletstore.api\\controllers\\singletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SingletStore\\Backend\\SingletStore.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SingletStore.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SingletStore\\Backend\\SingletStore.Api\\Program.cs",
+              "RelativeToolTip": "SingletStore.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T17:47:00.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\SingletStore\\Backend\\SingletStore.Api\\Controllers\\SingletController.cs",
+              "RelativeDocumentMoniker": "SingletStore.Api\\Controllers\\SingletController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\SingletStore\\Backend\\SingletStore.Api\\Controllers\\SingletController.cs",
+              "RelativeToolTip": "SingletStore.Api\\Controllers\\SingletController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T12:51:49.901Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MQ7JTImVu0wlw7zVdHni4QsswRfQjCXQe0va2OW/zQY=",
+  "Source": "SingletStore.Api",
+  "BasePath": "_content/SingletStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
